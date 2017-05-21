@@ -14,3 +14,9 @@ public class Player{
 	}
 
 }
+public class Game{
+       public String gameName;
+       public int numPlayers;
+       public Player[] players;
+
+}
